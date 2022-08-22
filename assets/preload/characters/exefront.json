@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "EXE FRONT IDLE"
+		},
+		{
+			"offsets": [
+				34,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "EXE FRONT LEFT"
+		},
+		{
+			"offsets": [
+				10,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "EXE FRONT DOWN"
+		},
+		{
+			"offsets": [
+				-2,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "EXE FRONT RIGHT"
+		},
+		{
+			"offsets": [
+				6,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "EXE FRONT UP"
+		},
+		{
+			"offsets": [
+				4,
+				15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "line",
+			"indices": [],
+			"name": "EXE FRONT line"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "pulls up",
+			"indices": [],
+			"name": "exe pulls up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/exefront",
+	"position": [
+		0,
+		70
+	],
+	"healthicon": "exe",
+	"flip_x": false,
+	"healthbar_colors": [
+		36,
+		84,
+		180
+	],
+	"camera_position": [
+		-150,
+		120
+	],
+	"sing_duration": 6.1,
+	"scale": 0.999999999999999
+}
