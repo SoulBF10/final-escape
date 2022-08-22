@@ -1,0 +1,6 @@
+value1: Duration to show เวลาที่อยู่บนหน้าจอ
+value2: Duration to finish fade out ความเร็วตอนหายออก
+
+Example 
+value1 1 (show for 1 sec)
+value2 0.5 ( fade alpha to zero in 0.5 sec)
