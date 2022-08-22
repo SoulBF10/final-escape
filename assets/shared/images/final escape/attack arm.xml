@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="attack arm.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="attack arm0000" x="0" y="0" width="816" height="588"/>
+	<SubTexture name="attack arm0001" x="0" y="0" width="816" height="588"/>
+	<SubTexture name="attack arm0002" x="0" y="588" width="816" height="588"/>
+	<SubTexture name="attack arm0003" x="0" y="588" width="816" height="588"/>
+	<SubTexture name="attack arm0004" x="0" y="1176" width="816" height="588"/>
+	<SubTexture name="attack arm0005" x="0" y="1176" width="816" height="588"/>
+	<SubTexture name="attack arm0006" x="0" y="1764" width="816" height="588"/>
+	<SubTexture name="attack arm0007" x="0" y="1764" width="816" height="588"/>
+	<SubTexture name="attack arm0008" x="0" y="1764" width="816" height="588"/>
+	<SubTexture name="attack arm0009" x="0" y="2352" width="816" height="588"/>
+	<SubTexture name="attack arm0010" x="0" y="2940" width="816" height="588"/>
+	<SubTexture name="attack arm0011" x="0" y="3528" width="816" height="588"/>
+	<SubTexture name="attack arm0012" x="0" y="3528" width="816" height="588"/>
+	<SubTexture name="attack arm0013" x="0" y="3528" width="816" height="588"/>
+	<SubTexture name="attack arm0014" x="0" y="3528" width="816" height="588"/>
+	<SubTexture name="attack arm0015" x="0" y="3528" width="816" height="588"/>
+	<SubTexture name="attack arm0016" x="0" y="3528" width="816" height="588"/>
+	<SubTexture name="attack arm0017" x="0" y="3528" width="816" height="588"/>
+	<SubTexture name="attack arm0018" x="0" y="3528" width="816" height="588"/>
+	<SubTexture name="attack arm0019" x="0" y="3528" width="816" height="588"/>
+	<SubTexture name="attack arm0020" x="0" y="3528" width="816" height="588"/>
+	<SubTexture name="attack arm0021" x="0" y="3528" width="816" height="588"/>
+	<SubTexture name="attack arm0022" x="0" y="3528" width="816" height="588"/>
+	<SubTexture name="attack arm0023" x="0" y="3528" width="816" height="588"/>
+	<SubTexture name="attack arm0024" x="0" y="3528" width="816" height="588"/>
+	<SubTexture name="attack arm0025" x="0" y="3528" width="816" height="588"/>
+	<SubTexture name="attack arm0026" x="0" y="3528" width="816" height="588"/>
+	<SubTexture name="attack arm0027" x="0" y="3528" width="816" height="588"/>
+	<SubTexture name="attack arm0028" x="0" y="3528" width="816" height="588"/>
+	<SubTexture name="attack arm0029" x="0" y="3528" width="816" height="588"/>
+	<SubTexture name="attack arm0030" x="0" y="3528" width="816" height="588"/>
+	<SubTexture name="attack arm0031" x="0" y="3528" width="816" height="588"/>
+	<SubTexture name="attack arm0032" x="0" y="3528" width="816" height="588"/>
+	<SubTexture name="attack arm0033" x="0" y="3528" width="816" height="588"/>
+	<SubTexture name="attack arm0034" x="0" y="3528" width="816" height="588"/>
+	<SubTexture name="attack arm0035" x="0" y="3528" width="816" height="588"/>
+	<SubTexture name="attack arm grab0000" x="0" y="0" width="816" height="588"/>
+	<SubTexture name="attack arm grab0001" x="0" y="0" width="816" height="588"/>
+	<SubTexture name="attack arm grab0002" x="0" y="588" width="816" height="588"/>
+	<SubTexture name="attack arm grab0003" x="0" y="588" width="816" height="588"/>
+	<SubTexture name="attack arm grab0004" x="0" y="4116" width="816" height="588"/>
+	<SubTexture name="attack arm grab0005" x="0" y="4116" width="816" height="588"/>
+	<SubTexture name="attack arm grab0006" x="0" y="4704" width="816" height="588"/>
+	<SubTexture name="attack arm grab0007" x="0" y="4704" width="816" height="588"/>
+	<SubTexture name="attack arm grab0008" x="0" y="5292" width="816" height="588"/>
+	<SubTexture name="attack arm grab0009" x="0" y="5292" width="816" height="588"/>
+	<SubTexture name="attack arm grab0010" x="0" y="5880" width="816" height="588"/>
+	<SubTexture name="attack arm grab0011" x="0" y="5880" width="816" height="588"/>
+	<SubTexture name="attack arm grab0012" x="0" y="6468" width="816" height="588"/>
+	<SubTexture name="attack arm grab0013" x="0" y="6468" width="816" height="588"/>
+	<SubTexture name="attack arm grab0014" x="0" y="6468" width="816" height="588"/>
+	<SubTexture name="attack arm grab0015" x="0" y="6468" width="816" height="588"/>
+	<SubTexture name="attack arm grab0016" x="0" y="6468" width="816" height="588"/>
+	<SubTexture name="attack arm grab0017" x="0" y="6468" width="816" height="588"/>
+	<SubTexture name="attack arm grab0018" x="0" y="6468" width="816" height="588"/>
+	<SubTexture name="attack arm grab0019" x="0" y="6468" width="816" height="588"/>
+	<SubTexture name="attack arm grab0020" x="0" y="6468" width="816" height="588"/>
+	<SubTexture name="attack arm grab0021" x="0" y="6468" width="816" height="588"/>
+	<SubTexture name="attack arm grab0022" x="0" y="6468" width="816" height="588"/>
+	<SubTexture name="attack arm grab0023" x="0" y="6468" width="816" height="588"/>
+	<SubTexture name="attack arm grab0024" x="0" y="6468" width="816" height="588"/>
+	<SubTexture name="attack arm grab0025" x="0" y="6468" width="816" height="588"/>
+	<SubTexture name="attack arm grab0026" x="0" y="6468" width="816" height="588"/>
+	<SubTexture name="attack arm grab0027" x="0" y="6468" width="816" height="588"/>
+	<SubTexture name="attack arm grab0028" x="0" y="6468" width="816" height="588"/>
+	<SubTexture name="attack arm grab0029" x="0" y="6468" width="816" height="588"/>
+	<SubTexture name="attack arm grab0030" x="0" y="6468" width="816" height="588"/>
+	<SubTexture name="attack arm grab0031" x="0" y="6468" width="816" height="588"/>
+	<SubTexture name="attack arm grab0032" x="0" y="6468" width="816" height="588"/>
+	<SubTexture name="attack arm grab0033" x="0" y="6468" width="816" height="588"/>
+	<SubTexture name="attack arm grab0034" x="0" y="6468" width="816" height="588"/>
+	<SubTexture name="attack arm grab0035" x="0" y="6468" width="816" height="588"/>
+	<SubTexture name="attack arm swallow0000" x="0" y="7056" width="816" height="588"/>
+	<SubTexture name="attack arm swallow0001" x="816" y="0" width="816" height="588"/>
+	<SubTexture name="attack arm swallow0002" x="816" y="588" width="816" height="588"/>
+	<SubTexture name="attack arm swallow0003" x="816" y="1176" width="816" height="588"/>
+	<SubTexture name="attack arm swallow0004" x="816" y="1764" width="816" height="588"/>
+	<SubTexture name="attack arm swallow0005" x="816" y="2352" width="816" height="588"/>
+	<SubTexture name="attack arm swallow0006" x="816" y="2940" width="816" height="588"/>
+	<SubTexture name="attack arm swallow0007" x="816" y="3528" width="816" height="588"/>
+	<SubTexture name="attack arm swallow0008" x="816" y="4116" width="816" height="588"/>
+	<SubTexture name="attack arm swallow0009" x="816" y="4704" width="816" height="588"/>
+	<SubTexture name="attack arm swallow0010" x="816" y="5292" width="816" height="588"/>
+	<SubTexture name="attack arm swallow0011" x="816" y="5880" width="816" height="588"/>
+	<SubTexture name="attack arm swallow0012" x="816" y="6468" width="816" height="588"/>
+	<SubTexture name="attack arm swallow0013" x="816" y="7056" width="816" height="588"/>
+	<SubTexture name="attack arm swallow0014" x="1632" y="0" width="816" height="588"/>
+	<SubTexture name="attack arm swallow0015" x="1632" y="588" width="816" height="588"/>
+	<SubTexture name="attack arm swallow0016" x="1632" y="1176" width="816" height="588"/>
+	<SubTexture name="attack arm swallow0017" x="1632" y="1764" width="816" height="588"/>
+	<SubTexture name="attack arm swallow0018" x="1632" y="2352" width="816" height="588"/>
+	<SubTexture name="attack arm swallow0019" x="1632" y="2940" width="816" height="588"/>
+	<SubTexture name="attack arm swallow0020" x="0" y="3528" width="816" height="588"/>
+	<SubTexture name="attack arm swallow0021" x="0" y="3528" width="816" height="588"/>
+	<SubTexture name="attack arm swallow0022" x="0" y="3528" width="816" height="588"/>
+	<SubTexture name="attack arm swallow0023" x="0" y="3528" width="816" height="588"/>
+	<SubTexture name="attack arm swallow0024" x="0" y="3528" width="816" height="588"/>
+	<SubTexture name="attack arm swallow0025" x="0" y="3528" width="816" height="588"/>
+	<SubTexture name="attack arm swallow0026" x="0" y="3528" width="816" height="588"/>
+	<SubTexture name="attack arm swallow0027" x="0" y="3528" width="816" height="588"/>
+	<SubTexture name="attack arm swallow0028" x="0" y="3528" width="816" height="588"/>
+	<SubTexture name="attack arm swallow0029" x="0" y="3528" width="816" height="588"/>
+	<SubTexture name="attack arm swallow0030" x="0" y="3528" width="816" height="588"/>
+	<SubTexture name="attack arm swallow0031" x="0" y="3528" width="816" height="588"/>
+	<SubTexture name="attack arm swallow0032" x="0" y="3528" width="816" height="588"/>
+	<SubTexture name="attack arm swallow0033" x="0" y="3528" width="816" height="588"/>
+	<SubTexture name="attack arm swallow0034" x="0" y="3528" width="816" height="588"/>
+	<SubTexture name="attack arm swallow0035" x="0" y="3528" width="816" height="588"/>
+</TextureAtlas>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="block2.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gh 20000" x="0" y="0" width="178" height="75"/>
+	<SubTexture name="gh 20001" x="0" y="0" width="178" height="75"/>
+	<SubTexture name="gh 20002" x="0" y="75" width="178" height="75"/>
+	<SubTexture name="gh 20003" x="0" y="75" width="178" height="75"/>
+</TextureAtlas>

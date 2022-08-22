@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="banner.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="banner0000" x="0" y="711" width="1216" height="350" frameX="-2" frameY="-7" frameWidth="1218" frameHeight="357"/>
+	<SubTexture name="banner0001" x="0" y="711" width="1216" height="350" frameX="-2" frameY="-7" frameWidth="1218" frameHeight="357"/>
+	<SubTexture name="banner0002" x="0" y="0" width="1199" height="356" frameX="0" frameY="0" frameWidth="1218" frameHeight="357"/>
+	<SubTexture name="banner0003" x="0" y="356" width="1199" height="355" frameX="0" frameY="-1" frameWidth="1218" frameHeight="357"/>
+</TextureAtlas>

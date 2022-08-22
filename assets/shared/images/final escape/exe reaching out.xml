@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="exe reaching out.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="exe reaching out0000" x="0" y="0" width="313" height="307" frameX="-5" frameY="0" frameWidth="320" frameHeight="313"/>
+	<SubTexture name="exe reaching out0001" x="0" y="0" width="313" height="307" frameX="-8" frameY="-7" frameWidth="320" frameHeight="313"/>
+	<SubTexture name="exe reaching out0002" x="313" y="0" width="312" height="307" frameX="0" frameY="-1" frameWidth="320" frameHeight="313"/>
+</TextureAtlas>

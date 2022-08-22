@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="exe kill.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="exe kill screen0000" x="0" y="0" width="302" height="304" frameX="-3" frameY="0" frameWidth="308" frameHeight="307"/>
+	<SubTexture name="exe kill screen0001" x="0" y="304" width="300" height="300" frameX="0" frameY="-7" frameWidth="308" frameHeight="307"/>
+	<SubTexture name="exe kill screen0002" x="0" y="604" width="300" height="299" frameX="-8" frameY="-6" frameWidth="308" frameHeight="307"/>
+</TextureAtlas>

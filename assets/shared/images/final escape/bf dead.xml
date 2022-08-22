@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf dead.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf dead0000" x="0" y="0" width="169" height="171" frameX="0" frameY="-2" frameWidth="169" frameHeight="173"/>
+	<SubTexture name="bf dead0001" x="0" y="0" width="169" height="171" frameX="0" frameY="-2" frameWidth="169" frameHeight="173"/>
+	<SubTexture name="bf dead0002" x="0" y="0" width="169" height="171" frameX="0" frameY="-2" frameWidth="169" frameHeight="173"/>
+	<SubTexture name="bf dead0003" x="0" y="0" width="169" height="171" frameX="0" frameY="-2" frameWidth="169" frameHeight="173"/>
+	<SubTexture name="bf dead0004" x="0" y="0" width="169" height="171" frameX="0" frameY="-2" frameWidth="169" frameHeight="173"/>
+	<SubTexture name="bf dead0005" x="0" y="0" width="169" height="171" frameX="0" frameY="-2" frameWidth="169" frameHeight="173"/>
+	<SubTexture name="bf dead0006" x="0" y="0" width="169" height="171" frameX="0" frameY="-2" frameWidth="169" frameHeight="173"/>
+	<SubTexture name="bf dead0007" x="0" y="0" width="169" height="171" frameX="0" frameY="-2" frameWidth="169" frameHeight="173"/>
+	<SubTexture name="bf dead0008" x="0" y="0" width="169" height="171" frameX="0" frameY="-2" frameWidth="169" frameHeight="173"/>
+	<SubTexture name="bf dead0009" x="0" y="0" width="169" height="171" frameX="0" frameY="-2" frameWidth="169" frameHeight="173"/>
+	<SubTexture name="bf dead0010" x="0" y="0" width="169" height="171" frameX="0" frameY="-2" frameWidth="169" frameHeight="173"/>
+	<SubTexture name="bf dead0011" x="0" y="0" width="169" height="171" frameX="0" frameY="-2" frameWidth="169" frameHeight="173"/>
+	<SubTexture name="bf dead0012" x="0" y="0" width="169" height="171" frameX="0" frameY="-2" frameWidth="169" frameHeight="173"/>
+	<SubTexture name="bf dead0013" x="0" y="0" width="169" height="171" frameX="0" frameY="-2" frameWidth="169" frameHeight="173"/>
+	<SubTexture name="bf dead0014" x="0" y="0" width="169" height="171" frameX="0" frameY="-2" frameWidth="169" frameHeight="173"/>
+	<SubTexture name="bf dead0015" x="0" y="0" width="169" height="171" frameX="0" frameY="-2" frameWidth="169" frameHeight="173"/>
+	<SubTexture name="bf dead0016" x="0" y="0" width="169" height="171" frameX="0" frameY="-2" frameWidth="169" frameHeight="173"/>
+	<SubTexture name="bf dead0017" x="0" y="0" width="169" height="171" frameX="0" frameY="-2" frameWidth="169" frameHeight="173"/>
+	<SubTexture name="bf dead0018" x="0" y="0" width="169" height="171" frameX="0" frameY="-2" frameWidth="169" frameHeight="173"/>
+	<SubTexture name="bf dead0019" x="0" y="0" width="169" height="171" frameX="0" frameY="-2" frameWidth="169" frameHeight="173"/>
+	<SubTexture name="bf dead0020" x="0" y="0" width="169" height="171" frameX="0" frameY="-2" frameWidth="169" frameHeight="173"/>
+	<SubTexture name="bf dead0021" x="0" y="0" width="169" height="171" frameX="0" frameY="-2" frameWidth="169" frameHeight="173"/>
+	<SubTexture name="bf dead0022" x="0" y="0" width="169" height="171" frameX="0" frameY="-2" frameWidth="169" frameHeight="173"/>
+	<SubTexture name="bf dead0023" x="0" y="0" width="169" height="171" frameX="0" frameY="-2" frameWidth="169" frameHeight="173"/>
+	<SubTexture name="bf dead0024" x="169" y="0" width="167" height="170" frameX="-2" frameY="0" frameWidth="169" frameHeight="173"/>
+</TextureAtlas>

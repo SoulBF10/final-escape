@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hands.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hands fade0000" x="1235" y="283" width="1204" height="258"/>
+	<SubTexture name="hands fade0001" x="2454" y="1090" width="1203" height="258" frameX="0" frameY="0" frameWidth="1204" frameHeight="258"/>
+	<SubTexture name="hands fade0002" x="1227" y="1348" width="1200" height="257" frameX="-2" frameY="0" frameWidth="1204" frameHeight="258"/>
+	<SubTexture name="hands kill0000" x="1235" y="0" width="1215" height="283" frameX="-16" frameY="-136" frameWidth="1235" frameHeight="557"/>
+	<SubTexture name="hands kill0001" x="2450" y="0" width="1213" height="282" frameX="-13" frameY="-75" frameWidth="1235" frameHeight="557"/>
+	<SubTexture name="hands kill0002" x="2450" y="282" width="1223" height="275" frameX="-9" frameY="-39" frameWidth="1235" frameHeight="557"/>
+	<SubTexture name="hands kill0003" x="0" y="293" width="1231" height="268" frameX="-3" frameY="-18" frameWidth="1235" frameHeight="557"/>
+	<SubTexture name="hands kill0004" x="0" y="824" width="1234" height="266" frameX="0" frameY="-6" frameWidth="1235" frameHeight="557"/>
+	<SubTexture name="hands kill0005" x="1234" y="824" width="1234" height="266" frameX="0" frameY="-1" frameWidth="1235" frameHeight="557"/>
+	<SubTexture name="hands kill0006" x="2468" y="824" width="1234" height="266" frameX="0" frameY="-2" frameWidth="1235" frameHeight="557"/>
+	<SubTexture name="hands kill0007" x="1231" y="557" width="1234" height="267" frameX="0" frameY="-6" frameWidth="1235" frameHeight="557"/>
+	<SubTexture name="hands kill0008" x="2465" y="557" width="1233" height="267" frameX="-1" frameY="-11" frameWidth="1235" frameHeight="557"/>
+	<SubTexture name="hands kill0009" x="0" y="561" width="1227" height="262" frameX="-2" frameY="-14" frameWidth="1235" frameHeight="557"/>
+	<SubTexture name="hands kill0010" x="0" y="1090" width="1227" height="262" frameX="-2" frameY="-14" frameWidth="1235" frameHeight="557"/>
+	<SubTexture name="hands kill0011" x="1227" y="1090" width="1227" height="258" frameX="-3" frameY="-15" frameWidth="1235" frameHeight="557"/>
+	<SubTexture name="hands kill0012" x="0" y="561" width="1227" height="262" frameX="-2" frameY="-14" frameWidth="1235" frameHeight="557"/>
+	<SubTexture name="hands kill0013" x="0" y="1090" width="1227" height="262" frameX="-2" frameY="-14" frameWidth="1235" frameHeight="557"/>
+	<SubTexture name="hands kill0014" x="1227" y="1090" width="1227" height="258" frameX="-3" frameY="-15" frameWidth="1235" frameHeight="557"/>
+	<SubTexture name="hands kill0015" x="0" y="561" width="1227" height="262" frameX="-2" frameY="-14" frameWidth="1235" frameHeight="557"/>
+	<SubTexture name="hands kill0016" x="0" y="1090" width="1227" height="262" frameX="-2" frameY="-14" frameWidth="1235" frameHeight="557"/>
+	<SubTexture name="hands kill0017" x="1227" y="1090" width="1227" height="258" frameX="-3" frameY="-15" frameWidth="1235" frameHeight="557"/>
+	<SubTexture name="hands kill0018" x="0" y="561" width="1227" height="262" frameX="-2" frameY="-14" frameWidth="1235" frameHeight="557"/>
+	<SubTexture name="hands kill0019" x="0" y="0" width="1235" height="293" frameX="0" frameY="0" frameWidth="1235" frameHeight="557"/>
+	<SubTexture name="hands kill0020" x="2427" y="1348" width="946" height="286" frameX="-139" frameY="-99" frameWidth="1235" frameHeight="557"/>
+	<SubTexture name="hands kill0021" x="0" y="1352" width="728" height="287" frameX="-241" frameY="-166" frameWidth="1235" frameHeight="557"/>
+	<SubTexture name="hands kill0022" x="3373" y="1348" width="577" height="309" frameX="-314" frameY="-196" frameWidth="1235" frameHeight="557"/>
+	<SubTexture name="hands kill0023" x="1222" y="1605" width="484" height="322" frameX="-360" frameY="-216" frameWidth="1235" frameHeight="557"/>
+	<SubTexture name="hands kill0024" x="0" y="1639" width="437" height="329" frameX="-383" frameY="-225" frameWidth="1235" frameHeight="557"/>
+	<SubTexture name="hands kill0025" x="3115" y="1657" width="428" height="330" frameX="-388" frameY="-227" frameWidth="1235" frameHeight="557"/>
+	<SubTexture name="hands kill0026" x="2672" y="1634" width="443" height="328" frameX="-380" frameY="-224" frameWidth="1235" frameHeight="557"/>
+	<SubTexture name="hands kill0027" x="2202" y="1634" width="470" height="324" frameX="-367" frameY="-218" frameWidth="1235" frameHeight="557"/>
+	<SubTexture name="hands kill0028" x="728" y="1352" width="494" height="321" frameX="-355" frameY="-213" frameWidth="1235" frameHeight="557"/>
+	<SubTexture name="hands kill0029" x="1706" y="1605" width="496" height="309" frameX="-353" frameY="-216" frameWidth="1235" frameHeight="557"/>
+</TextureAtlas>

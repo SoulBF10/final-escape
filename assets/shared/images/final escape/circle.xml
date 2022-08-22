@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="circle.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sonic circle0000" x="0" y="469" width="756" height="468" frameX="0" frameY="0" frameWidth="756" frameHeight="469"/>
+	<SubTexture name="sonic circle0001" x="0" y="469" width="756" height="468" frameX="0" frameY="0" frameWidth="756" frameHeight="469"/>
+	<SubTexture name="sonic circle0002" x="0" y="0" width="756" height="469"/>
+	<SubTexture name="sonic circle0003" x="0" y="0" width="756" height="469"/>
+</TextureAtlas>

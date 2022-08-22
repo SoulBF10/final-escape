@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="checkpoint.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="checkpoint0000" x="0" y="274" width="141" height="137" frameX="-1" frameY="0" frameWidth="142" frameHeight="137"/>
+	<SubTexture name="checkpoint0001" x="0" y="274" width="141" height="137" frameX="-1" frameY="0" frameWidth="142" frameHeight="137"/>
+	<SubTexture name="checkpoint0002" x="141" y="274" width="141" height="137" frameX="-1" frameY="0" frameWidth="142" frameHeight="137"/>
+	<SubTexture name="checkpoint0003" x="141" y="274" width="141" height="137" frameX="-1" frameY="0" frameWidth="142" frameHeight="137"/>
+	<SubTexture name="checkpoint0004" x="0" y="0" width="142" height="137"/>
+	<SubTexture name="checkpoint0005" x="0" y="0" width="142" height="137"/>
+	<SubTexture name="checkpoint0006" x="0" y="137" width="142" height="137"/>
+	<SubTexture name="checkpoint0007" x="0" y="137" width="142" height="137"/>
+</TextureAtlas>

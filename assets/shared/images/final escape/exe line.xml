@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="exe line.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="EXE FRONT line0000" x="0" y="0" width="477" height="499" frameX="0" frameY="0" frameWidth="489" frameHeight="499"/>
+	<SubTexture name="EXE FRONT line0001" x="0" y="499" width="475" height="498" frameX="-1" frameY="-1" frameWidth="489" frameHeight="499"/>
+	<SubTexture name="EXE FRONT line0002" x="946" y="0" width="464" height="485" frameX="-7" frameY="-8" frameWidth="489" frameHeight="499"/>
+	<SubTexture name="EXE FRONT line0003" x="0" y="1484" width="452" height="473" frameX="-13" frameY="-14" frameWidth="489" frameHeight="499"/>
+	<SubTexture name="EXE FRONT line0004" x="452" y="1484" width="450" height="471" frameX="-14" frameY="-15" frameWidth="489" frameHeight="499"/>
+	<SubTexture name="EXE FRONT line0005" x="452" y="1484" width="450" height="471" frameX="-14" frameY="-15" frameWidth="489" frameHeight="499"/>
+	<SubTexture name="EXE FRONT line0006" x="482" y="979" width="450" height="471" frameX="-14" frameY="-15" frameWidth="489" frameHeight="499"/>
+	<SubTexture name="EXE FRONT line0007" x="482" y="979" width="450" height="471" frameX="-14" frameY="-15" frameWidth="489" frameHeight="499"/>
+	<SubTexture name="EXE FRONT line0008" x="902" y="1450" width="450" height="471" frameX="-14" frameY="-15" frameWidth="489" frameHeight="499"/>
+	<SubTexture name="EXE FRONT line0009" x="902" y="1450" width="450" height="471" frameX="-14" frameY="-15" frameWidth="489" frameHeight="499"/>
+	<SubTexture name="EXE FRONT line0010" x="932" y="979" width="450" height="471" frameX="-14" frameY="-15" frameWidth="489" frameHeight="499"/>
+	<SubTexture name="EXE FRONT line0011" x="932" y="979" width="450" height="471" frameX="-14" frameY="-15" frameWidth="489" frameHeight="499"/>
+	<SubTexture name="EXE FRONT line0012" x="477" y="0" width="469" height="491" frameX="-4" frameY="-4" frameWidth="489" frameHeight="499"/>
+	<SubTexture name="EXE FRONT line0013" x="477" y="0" width="469" height="491" frameX="-4" frameY="-4" frameWidth="489" frameHeight="499"/>
+	<SubTexture name="EXE FRONT line0014" x="475" y="499" width="485" height="480" frameX="-4" frameY="-15" frameWidth="489" frameHeight="499"/>
+	<SubTexture name="EXE FRONT line0015" x="0" y="997" width="482" height="487" frameX="-4" frameY="-8" frameWidth="489" frameHeight="499"/>
+	<SubTexture name="EXE FRONT line0016" x="1410" y="0" width="440" height="461" frameX="-19" frameY="-20" frameWidth="489" frameHeight="499"/>
+	<SubTexture name="EXE FRONT line0017" x="1410" y="0" width="440" height="461" frameX="-19" frameY="-20" frameWidth="489" frameHeight="499"/>
+	<SubTexture name="EXE FRONT line0018" x="960" y="485" width="450" height="471" frameX="-14" frameY="-15" frameWidth="489" frameHeight="499"/>
+	<SubTexture name="EXE FRONT line0019" x="960" y="485" width="450" height="471" frameX="-14" frameY="-15" frameWidth="489" frameHeight="499"/>
+	<SubTexture name="EXE FRONT line0020" x="1352" y="1450" width="450" height="471" frameX="-14" frameY="-15" frameWidth="489" frameHeight="499"/>
+	<SubTexture name="EXE FRONT line0021" x="1352" y="1450" width="450" height="471" frameX="-14" frameY="-15" frameWidth="489" frameHeight="499"/>
+	<SubTexture name="EXE FRONT line0022" x="1382" y="956" width="450" height="471" frameX="-14" frameY="-15" frameWidth="489" frameHeight="499"/>
+	<SubTexture name="EXE FRONT line0023" x="1382" y="956" width="450" height="471" frameX="-14" frameY="-15" frameWidth="489" frameHeight="499"/>
+	<SubTexture name="EXE FRONT line0024" x="1382" y="956" width="450" height="471" frameX="-14" frameY="-15" frameWidth="489" frameHeight="499"/>
+	<SubTexture name="EXE FRONT line0025" x="1382" y="956" width="450" height="471" frameX="-14" frameY="-15" frameWidth="489" frameHeight="499"/>
+	<SubTexture name="EXE FRONT line0026" x="1382" y="956" width="450" height="471" frameX="-14" frameY="-15" frameWidth="489" frameHeight="499"/>
+	<SubTexture name="EXE FRONT line0027" x="1382" y="956" width="450" height="471" frameX="-14" frameY="-15" frameWidth="489" frameHeight="499"/>
+	<SubTexture name="EXE FRONT line0028" x="1382" y="956" width="450" height="471" frameX="-14" frameY="-15" frameWidth="489" frameHeight="499"/>
+	<SubTexture name="EXE FRONT line0029" x="1382" y="956" width="450" height="471" frameX="-14" frameY="-15" frameWidth="489" frameHeight="499"/>
+	<SubTexture name="EXE FRONT line0030" x="1382" y="956" width="450" height="471" frameX="-14" frameY="-15" frameWidth="489" frameHeight="499"/>
+	<SubTexture name="EXE FRONT line0031" x="1382" y="956" width="450" height="471" frameX="-14" frameY="-15" frameWidth="489" frameHeight="499"/>
+	<SubTexture name="EXE FRONT line0032" x="1382" y="956" width="450" height="471" frameX="-14" frameY="-15" frameWidth="489" frameHeight="499"/>
+	<SubTexture name="EXE FRONT line0033" x="1382" y="956" width="450" height="471" frameX="-14" frameY="-15" frameWidth="489" frameHeight="499"/>
+	<SubTexture name="EXE FRONT line0034" x="1382" y="956" width="450" height="471" frameX="-14" frameY="-15" frameWidth="489" frameHeight="499"/>
+	<SubTexture name="EXE FRONT line0035" x="1382" y="956" width="450" height="471" frameX="-14" frameY="-15" frameWidth="489" frameHeight="499"/>
+	<SubTexture name="EXE FRONT line0036" x="1382" y="956" width="450" height="471" frameX="-14" frameY="-15" frameWidth="489" frameHeight="499"/>
+	<SubTexture name="EXE FRONT line0037" x="1382" y="956" width="450" height="471" frameX="-14" frameY="-15" frameWidth="489" frameHeight="499"/>
+	<SubTexture name="EXE FRONT line0038" x="1382" y="956" width="450" height="471" frameX="-14" frameY="-15" frameWidth="489" frameHeight="499"/>
+	<SubTexture name="EXE FRONT line0039" x="1382" y="956" width="450" height="471" frameX="-14" frameY="-15" frameWidth="489" frameHeight="499"/>
+	<SubTexture name="EXE FRONT line0040" x="1382" y="956" width="450" height="471" frameX="-14" frameY="-15" frameWidth="489" frameHeight="499"/>
+</TextureAtlas>
